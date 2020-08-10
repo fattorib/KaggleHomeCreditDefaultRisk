@@ -1,7 +1,7 @@
 # Home Credit Default Risk
 ## Can you predict how capable each applicant is of repaying a loan?
 
-Welcome to my model of the follwowing [Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk/). We are given the following problem:
+Welcome to my model of the follwowing [Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk/). We are given the problem:
 
 "Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
